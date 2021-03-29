@@ -17,6 +17,8 @@ Application of the network to obtain semantic segmentation in lung images works 
 C = semanticseg(repmat(lung_ima_2D,[1 1 3])),net);    % requires "Deep Learning Toolbox"
 
 lung_ima_2D corresponds to a 2D UTE image of the lung of size [192, 192], formatted in uint8.
+
+C is the resulting segmentation mask.
  
  
 
