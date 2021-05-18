@@ -2,7 +2,8 @@
 
 This repository contains the model trained for segmenting MR lung images as described in:
 
-Weng A et al. Deep learning-based segmentation of the lung in MR-images acquired by a stack-of-spirals trajectory at ultra-short echo-times. XXX 
+Weng A et al. Deep learning-based segmentation of the lung in MR-images acquired by a stack-of-spirals trajectory at ultra-short echo-times. 
+BMC Med Imaging. 2021 May 8;21(1):79. doi: 10.1186/s12880-021-00608-1. 
 
 The images used for training were exclusively acquired by a stack-of-stars UTE MR pulse sequence on a 3T Magnetom Prisma Scanner in healthy volunteers and patients suffering from cystic fibrosis.
 
