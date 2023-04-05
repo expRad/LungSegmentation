@@ -9,7 +9,7 @@ The images used for training were exclusively acquired by a stack-of-stars UTE M
 
 The matlab-based CNN can be downloaded via the following link:
 
-https://ukwde-my.sharepoint.com/:u:/g/personal/wech_t_ukw_de/EeRdW_enBQ5PgFqpcTlkbzoBS7j6M-9n6BG49aCTvPuBjw?e=BkImlx
+https://github.com/expRad/LungSegmentation/releases/download/untagged-a60fab837293ff20185f/CNN.mat
 
 Loading CNN.mat in matlab stores a variable named "net" in your memory.
 
